@@ -1,4 +1,4 @@
-package com.virus.app
+package com.elprofvirus.app
 
 import io.flutter.embedding.android.FlutterActivity
 import com.facebook.FacebookSdk;

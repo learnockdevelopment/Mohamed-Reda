@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:294546944998:android:c8d35ba1e741e6c5885c27",
         "android_client_info": {
-          "package_name": "com.virus.app"
+          "package_name": "com.elprofvirus.app"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "294546944998-1cglhbktrv1t2jf4hjkbh6cnd2mntgon.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.virus.app",
+            "package_name": "com.elprofvirus.app",
             "certificate_hash": "54a4fcc6c3259716e2af2ec3d28d4c7f0e656abe"
           }
         },
@@ -25,7 +25,7 @@
           "client_id": "294546944998-227qtlu1j2uuuj0amfjr0m23rf4d2ocq.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.virus.app",
+            "package_name": "com.elprofvirus.app",
             "certificate_hash": "7347fb96244953332292e227183104f40845b378"
           }
         },
@@ -33,7 +33,7 @@
           "client_id": "294546944998-bg7re6k7kqophvbqbf8ega8todsh1c4q.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.virus.app",
+            "package_name": "com.elprofvirus.app",
             "certificate_hash": "730c28898ed4f89cd88cb7d8eac3263b1de7d3c2"
           }
         },
@@ -41,7 +41,7 @@
           "client_id": "294546944998-bppfbii92hbfi99jqg19ht18j06d5s8e.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.virus.app",
+            "package_name": "com.elprofvirus.app",
             "certificate_hash": "2aeed2abea9e1a0c5d86c1b66b11ce52a5b900cd"
           }
         },
@@ -49,7 +49,7 @@
           "client_id": "294546944998-h5gcrjb07qsabt4tanm3u7tmjph6cbh8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.virus.app",
+            "package_name": "com.elprofvirus.app",
             "certificate_hash": "306b7d58b719f4ea1d2ed7174cd41f15567c5b22"
           }
         },
